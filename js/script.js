@@ -62,7 +62,7 @@ window.console.log("Mell read over " + booksRead + " books last year.");
 */
 
 // STEP 7   REVIEW
-
+/*
 var x = "day";
 window.console.log(x=="Nope");
 
