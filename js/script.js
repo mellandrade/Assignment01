@@ -61,7 +61,7 @@ var booksRead = 100;
 window.console.log("Mell read over " + booksRead + " books last year.");
 */
 
-// STEP 7   REVIEW
+// STEP 7
 /*
 var x = "day";
 window.console.log(x=="Nope");
@@ -86,7 +86,7 @@ var y;
 window.console.log(y);
 */
 
-// STEP 10  REVIEW
+// STEP 10
 /*
 window.console.log(typeof "Hey");
 window.console.log(typeof 8);
