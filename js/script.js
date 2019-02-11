@@ -66,7 +66,6 @@ window.console.log("Mell read over " + booksRead + " books last year.");
 var x = "day";
 window.console.log(x=="Nope");
 
-/*
 var y = 35;
 y += 5;
 window.console.log(y==40);
@@ -89,12 +88,11 @@ window.console.log(y);
 
 // STEP 10  REVIEW
 /*
-typeof "Hey" + "<br>" +
-typeof 8 + "<br>" +
-typeof true + "<br>" +
-typeof [2,4,6,8] + "<br>" +
-typeof myBook + "<br>";
-window.console.log(typeof);
+window.console.log(typeof "Hey");
+window.console.log(typeof 8);
+window.console.log(typeof true);
+window.console.log(typeof [2,4,6,8]);
+window.console.log(typeof myBook);
 */
 
 // STEP 11
